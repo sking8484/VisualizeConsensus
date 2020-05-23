@@ -8,4 +8,4 @@ class Rectangle:
 		self.rb = rb #(x,y)
 	def calculateArea(self):
 		#write a function to calculate the area 
-
+i
